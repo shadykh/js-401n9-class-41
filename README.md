@@ -1,4 +1,9 @@
+<img src="./assets/adaptive-icon.png" alt="logo"
+	title="A cute kitten" width="100" height="100" />
+
 # React Native
+
+
 
 ## Index
 
@@ -7,6 +12,8 @@
 - [end user documentation](endUserDocumentation.md)
 - [Author Links](#Author-Links)
 - [Repo 🌍](https://github.com/shadykh/js-401n9-class-41)
+- [APK file](https://drive.google.com/file/d/1XEmhL9IA8zV6U_BmajkOmUL1ORIlIKxk/view?usp=sharing)
+- [Expo Deployment](https://expo.io/@shady94/flappy-asac-player)
 - [External-Resources](#External-Resources)
 
 ---
